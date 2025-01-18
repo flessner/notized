@@ -1,0 +1,13 @@
+# editor
+.vscode
+
+# os
+.DS_Store
+Thumbs.db
+
+# environment
+.env
+
+# node
+*/node_modules
+*/build
