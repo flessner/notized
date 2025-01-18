@@ -1,13 +1,10 @@
-# editor
-.vscode
-
 # os
 .DS_Store
 Thumbs.db
 
+# editor
+.vscode
+.idea
+
 # environment
 .env
-
-# node
-*/node_modules
-*/build
